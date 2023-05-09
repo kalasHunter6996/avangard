@@ -17,7 +17,6 @@
   /*Photos*/
   .photo-element{
     background-color: #1e1e1e;
-    height: 267px;
     border-radius: 8px;
   }
   #photo-vk{
@@ -45,8 +44,6 @@
   }
   #text{
     margin: 24px 16px 0px 16px;
-    width: 318px;
-    height: 156px;
     font-size: 16px;
   }
   /*News*/
